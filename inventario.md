@@ -11,4 +11,7 @@ link to [File schede madri](componenti/schede_madri.md)
 
 #periferiche
 
-link to [file Tastiere](periferiche/tastiere.md)
+link to [File tastiere](periferiche/tastiere.md)
+
+link to [File mouse](periferiche/mouse.md)
+
