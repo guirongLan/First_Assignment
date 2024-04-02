@@ -11,3 +11,4 @@ link to [File schede madri](componenti/schede_madri.md)
 
 #periferiche
 
+link ro [File mouse](periferiche/mouse.md)
